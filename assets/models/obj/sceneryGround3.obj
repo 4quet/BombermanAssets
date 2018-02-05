@@ -1,0 +1,16 @@
+# Blender v2.78 (sub 0) OBJ File: 'sceneryGround.blend'
+# www.blender.org
+mtllib sceneryGround3.mtl
+o Plane
+v -91.392227 0.000000 91.392227
+v 91.392227 0.000000 91.392227
+v -91.392227 0.000000 -91.392227
+v 91.392227 0.000000 -91.392227
+vt -4.1058 5.1058
+vt -4.1058 -4.1058
+vt 5.1058 -4.1058
+vt 5.1058 5.1058
+vn 0.0000 1.0000 0.0000
+usemtl Material.001
+s off
+f 1/1/1 2/2/1 4/3/1 3/4/1

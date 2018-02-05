@@ -1,0 +1,14 @@
+# Blender MTL File: 'brick.blend'
+# Material Count: 1
+
+newmtl texture
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ../../textures/brickwall2.jpg
+map_Bump ../../textures/brickwall_normal2.jpg
